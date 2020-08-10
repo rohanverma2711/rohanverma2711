@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Internshala
+- 🔭 I’m currently working on ...Internshala
 - 🌱 I’m currently learning Java,dbms,os
 - 👯 I’m looking to collaborate on py projects
 - 🤔 I’m looking for help with 
