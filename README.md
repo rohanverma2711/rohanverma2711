@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-## 🔭 I’m currently working as student at GLA UNIVERSITY
-## 🌱 I’m currently learning Java,dbms,os
-## 👯 I’m looking to collaborate on py projects
+### 🔭 I’m currently working as student at GLA UNIVERSITY
+### 🌱 I’m currently learning Java,dbms,os
+### 👯 I’m looking to collaborate on py projects
 <- 🤔 I’m looking for help with 
 ## 💬 Ask me about py projects
 ## 📫 How to reach me: email--rohan.kumar_cs19@gla.ac.in
