@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+```<h3 align="center">A passionate Full Stack developer from India</h3>```
 
 
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **GUI**
 
-- 📫 How to reach me **rohan.kumar_cs19@gla.ac.in**
+- 📫 How to reach me [link](rohan.kumar_cs19@gla.ac.in)
 
 - ⚡ Fun fact **Chai over Coffee**
 
