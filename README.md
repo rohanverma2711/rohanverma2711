@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanverma2711" alt="rohanverma2711" /> </p>
+
 
 - 🌱 I’m currently learning **DataStructures ,Algorithims,GUI etc**
 
@@ -22,3 +22,4 @@
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100010000608599" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010000608599" height="30" width="30" /></a>
 <a href="https://instagram.com/rohanverma27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rohanverma27" height="30" width="30" /></a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanverma2711" alt="rohanverma2711" /> </p>
