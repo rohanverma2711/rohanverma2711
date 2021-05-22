@@ -28,7 +28,8 @@
 ---
 
 <p align="centre">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanverma2711&layout=compact&hide=html&theme=radical" alt="rohanverma2711" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanverma2711&layout=compact&hide=html&theme=radical" alt="rohanverma2711" &count_private=true)
+/>
   <img src="https://github-readme-stats.vercel.app/api?username=rohanverma2711&show_icons=true&theme=radical" alt="rohanverma2711" />
 </p>
 
