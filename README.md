@@ -9,13 +9,11 @@
 - 💬 Ask me about **GUI**
 
 - 📫 Drop me an <a href="mailto: rohan.kumar_cs19@gla.ac.in">Email</a>
-
-- ⚡ Fun fact **Chai over Coffee**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanverma2711" alt="rohanverma2711" /> </p>
 ---
 
  <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="c" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
