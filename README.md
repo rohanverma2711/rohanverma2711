@@ -31,6 +31,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rohanverma2711&show_icons=true&theme=cobalt&count_private=true" alt="rohanverma2711" />
 </p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanverma2711&repo=github-readme-stats)](https://github.com/rohanverma2711/github-readme-stats)
+
+
 ---
 
 <p align="center">
