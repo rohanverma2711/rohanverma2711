@@ -2,17 +2,20 @@
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **DataStructures ,Algorithims,GUI etc**
+- 🌱 I’m currently learning **DataStructures ,Algorithims etc**
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/rohanverma2711">here</a>
 
-- 💬 Ask me about **GUI**
 
 - 📫 Drop me an <a href="mailto: rohan.kumar_cs19@gla.ac.in">Email</a>
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanverma2711" alt="rohanverma2711" /> </p>
 ---
 
+<h2>Skills</h2>
+
  <p align="center">
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
@@ -24,21 +27,22 @@
 </p>
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanverma2711&show_icons=true&locale=en&layout=compact" alt="rohanverma2711" /></p>
 
-<p align="centre">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanverma2711&layout=compact&hide=html&theme=cobalt" alt="rohanverma2711" )
-/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanverma2711&show_icons=true&theme=cobalt&count_private=true" alt="rohanverma2711" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanverma2711&show_icons=true&locale=en" alt="rohanverma2711" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanverma2711&" alt="rohanverma2711" /></p>
 
 
 
 ---
-
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-kumar-b10369194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rohan-kumar-b10369194/" height="30" width="30" /></a>
-  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100010000608599" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010000608599" height="30" width="30" /></a>
-  <a href="https://instagram.com/rohanverma27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rohanverma27" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/rohan-kumar-b10369194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-kumar-b10369194" height="30" width="40" /></a>
+<a href="https://instagram.com/rohan_verma27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohan_verma27" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rohan_kumar27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohan_kumar27" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rohan_kumar_cs19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohan_kumar_cs19" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rohan_verma27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rohan_verma27" height="30" width="40" /></a>
+<a href="https://discord.gg/#8821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8821" height="30" width="40" /></a>
 </p>
-
 
