@@ -42,7 +42,6 @@
 <a href="https://www.hackerrank.com/rohan_kumar_cs19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohan_kumar_cs19" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100010000608599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohan_verma27" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rohan_kumar27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohan_kumar27" height="30" width="40" /></a>
-
 <a href="https://discord.gg/#8821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8821" height="30" width="40" /></a>
  <a href="https://hyperskill.org/profile/2952107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hyperskill.svg" alt="rohan_kumar27" height="30" width="40" /></a>
 
