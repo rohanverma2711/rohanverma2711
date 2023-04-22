@@ -8,7 +8,7 @@
 
 
 - 📫 Drop me an <a href="mailto: rohan.kumar_cs19@gla.ac.in">Email</a>
-- My  <a href="https://youtu.be/1cj3O25dpHw">Video Resume</a> for SpringWorks 
+- My  <a href="https://youtu.be/1cj3O25dpHw">Video Resume</a>
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanverma2711" alt="rohanverma2711" /> </p>
 ---
 <h2>Skills</h2>
